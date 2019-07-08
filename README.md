@@ -1,6 +1,6 @@
 # The-Zen-of-Python
 [Python之禅-分享有意思的python代码]
-<img width = "310" src="/importthis.png" alt="import this"/>
+<img src="/importthis.png" alt="import this"/>
 ## 中文翻译
 ```
 Python之禅 by Tim Peters
