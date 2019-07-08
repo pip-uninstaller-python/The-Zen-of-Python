@@ -1,9 +1,10 @@
 # The-Zen-of-Python 
 [Python之禅 分享有意思的python代码](import_this)  
 
-## cmd英文
+##  cmd英文
 <img src="/importthis.png" alt="import this"/>
-## 中文翻译  
+
+##  中文翻译  
 
 ```
 Python之禅 by Tim Peters
