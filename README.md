@@ -1,5 +1,7 @@
-# The-Zen-of-Python
-[Python之禅-分享有意思的python代码]
+# The-Zen-of-Python 
+[Python之禅 分享有意思的python代码](The-Zen-of-Python)  
+
+## cmd英文
 <img src="/importthis.png" alt="import this"/>
 ## 中文翻译
 ```
