@@ -3,7 +3,8 @@
 
 ## cmd英文
 <img src="/importthis.png" alt="import this"/>
-## 中文翻译
+## 中文翻译  
+
 ```
 Python之禅 by Tim Peters
  
